@@ -1,0 +1,20 @@
+body
+{
+    background-color: #DDDDDD;
+}
+
+.text
+{
+    color: #333333;
+}
+
+.main
+{
+    text-align: center;
+}
+
+.list
+{
+    display: inline-block;
+    text-align: left;
+}
